@@ -26,3 +26,6 @@ If you'd like to contribute to this notebook variant, please follow these guidel
 4. Commit your changes with clear and concise comments.
 5. Push your changes to your fork.
 6. Submit a pull request, explaining the changes you've made.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
